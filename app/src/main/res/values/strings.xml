@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">table</string>
+    <string name="tennis_match">World Fast4 Tennis Match </string>
+    <string name="game_teamb">!! Game WON BY TEAM B !!</string>
+    <string name="set_teamb">!! Set WON BY TEAM B !!</string>
+    <string name="match_teamb">!! Match WON BY TEAM B !!</string>
+    <string name="game_teama">!! Game WON BY TEAM A !!</string>
+    <string name="set_teama">!! Set WON BY TEAM A !!</string>
+    <string name="match_teama">!! Match WON BY TEAM A !!</string>
+
+</resources>
